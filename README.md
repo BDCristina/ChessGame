@@ -1,6 +1,7 @@
 # Chess Game
 
 Chess Game is a Java application implementing the classic game of chess. It provides players with a platform to enjoy the strategic and tactical challenges of this timeless board game.
+
 ![ChessGame](images/ChessGame.png)
 
 ## 📝 Installation
